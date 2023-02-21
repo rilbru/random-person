@@ -1,0 +1,32 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    background-color: #f2e3ee;
+  }
+  
+h1 {
+    font-family: impact;
+    font-size: 35px;
+    color: #b60b6f;
+}
+  
+p.intro {
+    font-family: helvetica;
+    font-weight: bold;
+    font-size: 18px;
+    color: #129855;
+}
+
+link, a {
+    color: #b60b6f;
+    font-weight: bold;
+}
+
+#div1 {
+    background-color:#d5fef0;
+}
+
+#display-info {
+    font-family: Cambria;
+    font-size: 15px;
+    color: #129855;
+  }
